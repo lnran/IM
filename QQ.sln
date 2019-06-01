@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QQ", "QQ\QQ.vcxproj", "{CD2C7F79-F0C9-45D3-B0B1-2E6206E71E2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD2C7F79-F0C9-45D3-B0B1-2E6206E71E2B}.Debug|x64.ActiveCfg = Debug|x64
+		{CD2C7F79-F0C9-45D3-B0B1-2E6206E71E2B}.Debug|x64.Build.0 = Debug|x64
+		{CD2C7F79-F0C9-45D3-B0B1-2E6206E71E2B}.Debug|x86.ActiveCfg = Debug|Win32
+		{CD2C7F79-F0C9-45D3-B0B1-2E6206E71E2B}.Debug|x86.Build.0 = Debug|Win32
+		{CD2C7F79-F0C9-45D3-B0B1-2E6206E71E2B}.Release|x64.ActiveCfg = Release|x64
+		{CD2C7F79-F0C9-45D3-B0B1-2E6206E71E2B}.Release|x64.Build.0 = Release|x64
+		{CD2C7F79-F0C9-45D3-B0B1-2E6206E71E2B}.Release|x86.ActiveCfg = Release|Win32
+		{CD2C7F79-F0C9-45D3-B0B1-2E6206E71E2B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39EE82B9-6BB0-46C2-8E93-4A4D069035F1}
+	EndGlobalSection
+EndGlobal
